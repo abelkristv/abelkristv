@@ -1,5 +1,5 @@
 ## Hi there,  FuwaFuwaa ⋆˚✿˖° heree 👋
-
+Just some Linux & FOSS enthusiast
 ## Count Number
 ![abelkristv](https://count.getloli.com/get/@abelkristv)
 
