@@ -1,5 +1,7 @@
 ## Hi there,  FuwaFuwaa ⋆˚✿˖° heree 👋
-Just some Linux & FOSS enthusiast
+Lets be friends :D
+- Linux & FOSS enthusiast
+- Weebs
 ## Count Number
 ![abelkristv](https://count.getloli.com/get/@abelkristv)
 
