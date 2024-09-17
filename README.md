@@ -1,7 +1,7 @@
 ## Hi there,  FuwaFuwaa ⋆˚✿˖° heree 👋
 
 ## Count Number
-![:name](https://count.getloli.com/get/@:name)
+![abelkristv](https://count.getloli.com/get/@abelkristv)
 
 <!--
 **abelkristv/abelkristv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
