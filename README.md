@@ -2,6 +2,7 @@
 Lets be friends :D
 - Linux & FOSS enthusiast
 - Weebs
+[![abelkristv GitHub stats](https://github-readme-stats.vercel.app/api?username=abelkristv)](https://github.com/anuraghazra/github-readme-stats)
 ## Count Number
 ![abelkristv](https://count.getloli.com/get/@abelkristv)
 
